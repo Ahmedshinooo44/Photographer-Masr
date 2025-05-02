@@ -1,7 +1,7 @@
 
 # Ahmed Shenawy Photography
 
-![Ahmed Shenawy Photography Logo]([./shenoo.png](https://github.com/Ahmedshinooo44/Photographer-Masr/blob/main/img/shenoo.png))
+![Ahmed Shenawy Photography Logo]([./images/shenoo.png)
 
 ## About Me
 
