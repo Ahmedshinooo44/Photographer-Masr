@@ -1,7 +1,7 @@
 
 # Ahmed Shenawy Photography
 
-![Ahmed Shenawy Photography Logo]([./images/shenoo.png](https://drive.google.com/file/d/1om9KvvY8Ad02oXTt6czKBQdPEWgbFbpm/view?usp=drive_link)])
+[![shenoo.png](https://i.postimg.cc/j2tbzYpn/shenoo.png)](https://postimg.cc/ft2pNpTM)
 
 ## About Me
 
